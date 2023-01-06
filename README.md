@@ -17,7 +17,8 @@ In the `huggingface_finetune_clip_runner.ipynb` is a code cell that outputs a `.
 
 Load `huggingface_finetune_clip_runner.ipynb` in an environment that already has PyTorch and torchvision installed. Work through the cells one by one - you will need to change the `root_folder` and `out_json` to match your needs:
 
-```root_folder = "/Users/damian/2.current/stablediffusion/buzzybee/fullsize"
+```
+root_folder = "/Users/damian/2.current/stablediffusion/buzzybee/fullsize"
 out_json = "/Users/damian/2.current/stablediffusion/buzzybee.json"
 ```
 
